@@ -13,9 +13,7 @@ Below are the things need to prepare.
 Below are the topic that should cover in Presentation:
 
 History About Android
-
-Android Version and API Level:
-
+Android Version and API Level
 System Architecture
 
 Exact different between Android vs Java Pragramming:
@@ -82,21 +80,16 @@ Day 2:
 
 At last, What's next? Advance Android:
 
+Android Architecture components
 RxJava2,
 Retrofit,
 Dagger2,
-
-
-MVVM/MVP
+MVVM/MVP/MVC
 
 Android Architecture Components:
 https://android.jlelse.eu/android-architecture-components-a563027632ce
 
-JUNIT:
-
-
-
-Referense Link:
+# Referense Link:
 
 https://www.slideshare.net/deepakkumargoyal/slideshare-android
 http://meseec.ce.rit.edu/551-projects/fall2015/1-3.pdf
@@ -105,8 +98,4 @@ https://blog.aritraroy.in/20-awesome-open-source-android-apps-to-boost-your-deve
 Android Tranining Fundamentals:
 
 https://github.com/google-developer-training/android-fundamentals
-
 https://github.com/google-developer-training/android-advanced
-
-# Day 1: 1-4 PM
-
