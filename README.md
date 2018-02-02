@@ -48,13 +48,13 @@ Developing Application using Android Studio IDE/Android SDK/JRE
 A]
 Basic UI elements:
 Intents
-Activities, 
-Fragment, 
-Layouts,Input controls, 
+Activities,
+Fragment,
+Layouts,Input controls,
 DataBinding
 Recyclerview, Adapter & ViewHolder
 Async task, threading and handlers
-Background services 
+Background services
 Material design elements :Text Input Layout,Floating Action Button,Snackbar,App bar y Toolbar,Coordinator Layout
 Navigation: ViewPager,Drawer
 
@@ -99,3 +99,5 @@ Android Tranining Fundamentals:
 
 https://github.com/google-developer-training/android-fundamentals
 https://github.com/google-developer-training/android-advanced
+
+https://www.javatpoint.com/java-tutorial
