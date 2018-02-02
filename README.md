@@ -1,14 +1,14 @@
 # Android-PDPU
+
 Android-PDPU Presentation.
 
 Presentation Link:
 
 https://slides.com/bhavdippathar/android-pdpu/live
 
-
 Below are the things need to prepare.
 
-# Day 1: 9-12 PM
+## Day 1: 9-12 PM
 
 Below are the topic that should cover in Presentation:
 
@@ -17,6 +17,7 @@ Android Version and API Level
 System Architecture
 
 Exact different between Android vs Java Pragramming:
+
     - Android vs Java
     - Android vs Kotlin
     - Dalvik vs ART(Android Run Time)
@@ -41,42 +42,36 @@ AVD Manager
 The SDK Manager
 Creating signed APKs
 
+## Day 1: 1-4 PM
 
-# Day 1: 1-4 PM
 Developing Application using Android Studio IDE/Android SDK/JRE
 
-A]
-Basic UI elements:
-Intents
-Activities, 
-Fragment, 
-Layouts,Input controls, 
-DataBinding
-Recyclerview, Adapter & ViewHolder
-Async task, threading and handlers
-Background services 
-Material design elements :Text Input Layout,Floating Action Button,Snackbar,App bar y Toolbar,Coordinator Layout
-Navigation: ViewPager,Drawer
+- **Basic UI elements**:
+  - Intents Activities, Fragment
+  - Layouts
+  - Input controls
+  - DataBinding
+  - Recyclerview, Adapter & ViewHolder
+  - Async task, threading and handlers,Background services 
+  - Material design elements:Text Input Layout Floating Action Button,Snackbar,App bar vs Toolbar,Coordinator Layout
+  - Navigation: ViewPager,Drawer
 
+- **Resources**:
+  - String.xml, value.xml, colors.xml,style.xml
+  - Assets
+  - Debugging
 
-B]Resources:
-2.String.xml,value.xml,colors.xml,style.xml
-3.Assets
-4.Debugging
+- **Others**:
+  - Permission system
+  - Custom views
 
-C]other
-Permission system
-Custom views
+- **Storage**:
+  - Shared Preferences
+  - Files
+  - SQLite databases
+  - Libraries: ORM
 
-
-D]Storage:
-Shared Preferences and Files
-SQLite databases
-Libraries: ORM
-
-
-
-Day 2:
+## Day 2
 
 At last, What's next? Advance Android:
 
@@ -89,13 +84,13 @@ MVVM/MVP/MVC
 Android Architecture Components:
 https://android.jlelse.eu/android-architecture-components-a563027632ce
 
-# Referense Link:
+## Referense Link
 
 https://www.slideshare.net/deepakkumargoyal/slideshare-android
 http://meseec.ce.rit.edu/551-projects/fall2015/1-3.pdf
 https://blog.aritraroy.in/20-awesome-open-source-android-apps-to-boost-your-development-skills-b62832cf0fa4
 
-Android Tranining Fundamentals:
+*Android Tranining Fundamentals:*
 
 https://github.com/google-developer-training/android-fundamentals
 https://github.com/google-developer-training/android-advanced
