@@ -16,7 +16,7 @@ History About Android
 Android Version and API Level
 System Architecture
 
-Exact different between Android vs Java Pragramming:
+Exact different between Android vs Java Programming:
     - Android vs Java
     - Android vs Kotlin
     - Dalvik vs ART(Android Run Time)
@@ -28,7 +28,7 @@ Application Resources
 
 What is new in android API
 
-Undestanding AndroidStudio Feature,App Level build.Gradle, Top Level build.Gradle:
+Understanding AndroidStudio Feature,App Level build.Gradle, Top Level build.Gradle:
 
 Setting up
 Starting a new project
@@ -78,26 +78,26 @@ Libraries: ORM
 
 Day 2:
 
-At last, What's next? Advance Android:
+0.Java Programming
+1.ArrayList Recycler view and BaseAdapter
+2.ViewPager with Fragment
+3.Storage: Session Manager
+4.Splash,Login and NavigationBottomMenu with Fragment with static Data
 
-Android Architecture components
-RxJava2,
-Retrofit,
-Dagger2,
-MVVM/MVP/MVC
-
+# Reference Link:
 Android Architecture Components:
 https://android.jlelse.eu/android-architecture-components-a563027632ce
 
-# Referense Link:
 
 https://www.slideshare.net/deepakkumargoyal/slideshare-android
 http://meseec.ce.rit.edu/551-projects/fall2015/1-3.pdf
 https://blog.aritraroy.in/20-awesome-open-source-android-apps-to-boost-your-development-skills-b62832cf0fa4
 
-Android Tranining Fundamentals:
-
+Android Training Fundamentals:
 https://github.com/google-developer-training/android-fundamentals
 https://github.com/google-developer-training/android-advanced
 
+
 https://www.javatpoint.com/java-tutorial
+
+https://github.com/nisrulz/android-examples
