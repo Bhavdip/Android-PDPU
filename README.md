@@ -1,5 +1,8 @@
 # Android-PDPU
 
+![](https://stackoverflow.com/users/flair/593248.png)
+![](https://stackoverflow.com/users/flair/3758898.png)
+
 Android-PDPU Presentation.
 
 Live Stream:
